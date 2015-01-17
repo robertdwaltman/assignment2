@@ -40,10 +40,8 @@ div.inner-content{
 	text-align: center;
 	color: white;
 	line-height: 30px;
-
-
 }
 
-
-
-
+img {
+	float:left;
+}
