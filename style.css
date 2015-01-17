@@ -16,4 +16,6 @@ tbody tr:nth-child(odd) + tr {background-color: lightgreen;}
 
 tbody tr:nth-child(even) + tr {background-color: lightblue;}
 
+dt:hover + dd {background-color: purple;}
+
 
