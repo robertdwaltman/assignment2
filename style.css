@@ -19,13 +19,10 @@ tbody tr:nth-child(even) + tr {background-color: lightblue;}
 dt:hover + dd {background-color: purple;}
 
 div.outer-content {
-
 	margin-top: 20px;
 	background-color: hotpink;
 	width: 75%;
 	height: 60px;
-
-
 }
 
 div.inner-content{
