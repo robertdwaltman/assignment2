@@ -18,4 +18,32 @@ tbody tr:nth-child(even) + tr {background-color: lightblue;}
 
 dt:hover + dd {background-color: purple;}
 
+div.outer-content {
+
+	margin-top: 20px;
+	background-color: hotpink;
+	width: 75%;
+	height: 60px;
+
+
+}
+
+div.inner-content{
+	position: relative;
+	width: 75%;
+	height: 50%;
+	top: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: blue;
+	vertical-align: middle;
+	text-align: center;
+	color: white;
+	line-height: 30px;
+
+
+}
+
+
+
 
